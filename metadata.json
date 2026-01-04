@@ -1,0 +1,7 @@
+{
+  "name": "居家整聊驗收與收款系統",
+  "description": "提供客戶驗收勾選、服務人員金額填寫及藍新金流收款 QR Code 的三階段流程網頁。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
